@@ -1,0 +1,13 @@
+AAsayisi: 0 oran: % 0
+BAsayisi: 0 oran: % 0
+BBsayisi: 0 oran: % 0
+CBsayisi: 0 oran: % 0
+CCsayisi: 0 oran: % 0
+DCsayisi: 0 oran: % 0
+DDsayisi: 0 oran: % 0
+FDsayisi: 0 oran: % 0
+FFsayisi: 1 oran: % 100
+Kalan Sayısı	: 1
+Geçen Sayısı	: 0
+Kalan Oranı	: % 100
+Geçen Oranı	: % 0

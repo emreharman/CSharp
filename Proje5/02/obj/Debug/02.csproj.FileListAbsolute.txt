@@ -1,0 +1,9 @@
+C:\Users\LENOVO\source\repos\cSharp\VeriTabanı\02\02\bin\Debug\02.exe.config
+C:\Users\LENOVO\source\repos\cSharp\VeriTabanı\02\02\bin\Debug\02.exe
+C:\Users\LENOVO\source\repos\cSharp\VeriTabanı\02\02\bin\Debug\02.pdb
+C:\Users\LENOVO\source\repos\cSharp\VeriTabanı\02\02\obj\Debug\02.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\cSharp\VeriTabanı\02\02\obj\Debug\_02.Form1.resources
+C:\Users\LENOVO\source\repos\cSharp\VeriTabanı\02\02\obj\Debug\_02.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\cSharp\VeriTabanı\02\02\obj\Debug\02.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\cSharp\VeriTabanı\02\02\obj\Debug\02.exe
+C:\Users\LENOVO\source\repos\cSharp\VeriTabanı\02\02\obj\Debug\02.pdb
